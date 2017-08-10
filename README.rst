@@ -99,14 +99,12 @@ Usage
       -v, --version         displays the current version of howdoi
 
 
-Use proxies:
-
-Set environment variable:
+Use proxies if necessary, you can set environment variable:
 
 .. code:: python
 
     > export HTTP_PROXY=http://127.0.0.1:8087
-    > export HTTPs_PROXY=https://127.0.0.1:8087
+    > export HTTPS_PROXY=https://127.0.0.1:8087
 
 Author
 ------
