@@ -103,7 +103,7 @@ Use proxies:
 
 Set environment variable:
 
-..code: python::
+.. code: python::
 
     > export HTTP_PROXY=http://127.0.0.1:8087
     > export HTTPs_PROXY=https://127.0.0.1:8087
